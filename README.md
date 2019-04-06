@@ -10,6 +10,7 @@
     endpoint: minio server url , without "http" or "https"
     accessKey: minio 
     secretKey: minio
+    bucket: minio
     watch_folder: local folder to watch 
 ```
  * 支持平台osx (linux, window not tested)
